@@ -19,6 +19,6 @@
 |  |
 |--|
 | **Catatan** |
-| Chapter 3 - Live Coding All Day |
+| Chapter 3 - Live Coding Sharing Session |
 | **Submission Chapter 3** |  
 [Github Repository - Challenge CH 3](https://github.com/vierynugroho/f-fsw24001086-km6-vie-restfulAPI-ch3)|
